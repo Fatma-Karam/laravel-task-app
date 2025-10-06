@@ -12,7 +12,7 @@
   <img src="screenshot.png" alt="App Screenshot" width="600">
 </p>
 
-> يمكنك استبدال `screenshot.png` باسم الصورة التي ترفعها داخل المشروع (مثلاً صورة لواجهة التطبيق).
+
 
 ---
 
